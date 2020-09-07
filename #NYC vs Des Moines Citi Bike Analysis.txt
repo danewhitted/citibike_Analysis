@@ -1,0 +1,26 @@
+#NYC vs Des Moines Citi Bike Analysis
+
+[Link to tableau story.](https://public.tableau.com/profile/dane.whitted#!/vizhome/Book4_15994418666670/Story1?publish=yes)
+
+This is a summary of analytics assessing the viability of a new Citi Bike Company in Des Moines. Statistics from New York City were used in 
+comparison to Des Moines.
+
+Story point 1 compares the population of the two citie. Des Moines is vastly smaller at 2.5% of NY (8.3m / 214K). This not to say Des Moines is not large
+enough to sustain a Citi Bike. Citi Bike NY has 2.3m customers. If Des Moines could find 2.5% of NY 2.3m, that would give 58,606. Which appears to be 
+as their is currently a bike sharing company in Des Moines.
+
+Story point number 2 examines gender distrubition within customers of Citi Bike NY. The vast majority of riders are male. 52.3% of NYC citizens are female. 
+It appears the gender demographic Citi Bike has to go after is male. Des Moines is 50.8% female. Which is good news. We do not want a higher ratio of 
+females, it would be harder to find males to rent bikes.
+
+Story point number 3 examines peek hours. This will help Citi Bike plan logistics like bike maintenence. The slowest times are between 2am and 5am. 
+The peek hour is 5pm.
+
+Story point number 4 analyzes customer and subscribers. Take note of the large subscriber base NYC has even though it is major tourist attraction. 
+This may be a good indicator for Des Moines as it may have to rely on subscribers rather than tourist.
+
+Story point number 5 takes a look at age demographics. They are fairly balanced with 50 year olds being the largest group and 20 year olds coming in
+second. These age groups should not be hard for Des Moines find as a customer base. 
+
+Further research would include data concerning automobile ownership. NYC has a large population of people who do not own cars. I would assume Des Moines' 
+is much smaller. This might be a strong enough variable to at least consider creating a plan to combat this problem when opening a Citi Bike in Des Moines.
